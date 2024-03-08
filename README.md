@@ -1,0 +1,3 @@
+Read Me for Fantoose 1
+
+Here is my first solo build of the skills i have gained through code academy...
