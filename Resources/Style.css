@@ -1,6 +1,7 @@
 body {
     background-color: #494a50;
     color:beige;
+    text-align: center;
     }
 
 .breadcrumb {
@@ -20,7 +21,7 @@ body {
 
 .breadcrumblist {
     display: inline;
-    color: #125f83;
+    color: #09c7e9;
 }
 
 .breadcrumb li:not(:last-child):after
