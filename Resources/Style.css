@@ -1,8 +1,18 @@
+/* Structure
+================ */
 body {
-    background-color: #494a50;
+    background-color: #34474F;
     color:beige;
     text-align: center;
     }
+
+    footer {
+        background-color: #FF6600;
+    }
+
+
+    /* Breadcrumbs
+================ */
 
 .breadcrumb {
     text-align: left;
@@ -14,9 +24,6 @@ body {
     font-size: large;
     opacity: 50%;
     color: #1a074d;
-    
-       
-    
    }
 
 .breadcrumblist {
@@ -47,4 +54,13 @@ body {
 .breadcrumblist a{
     text-decoration: none;
     color: #eedb0d;
+}
+
+
+/* Img
+================ */
+
+img {
+    height: 400px;
+    background-size: cover; 
 }
